@@ -1,10 +1,10 @@
 
 # Personal Portfolio Website 
 
-      Welcome to my personal portfolio website repository! This project showcases my skills, projects, and experiences as a web developer. Built with HTML, CSS, and JavaScript, this website serves as a platform to present my work and provide insights into my background and expertise.
+Welcome to my personal portfolio website repository! This project showcases my skills, projects, and experiences as a web developer. Built with HTML, CSS, and JavaScript, this website serves as a platform to present my work and provide insights into my background and expertise.
 
 ## Description 
-      This portfolio website highlights my professional journey and technical abilities. It is designed to offer a comprehensive view of my work and accomplishments, making it easier for potential employers, clients, and collaborators to understand what I bring to the table.
+This portfolio website highlights my professional journey and technical abilities. It is designed to offer a comprehensive view of my work and accomplishments, making it easier for potential employers, clients, and collaborators to understand what I bring to the table.
 
 ## Features 
 Home: A welcoming introduction with a brief overview of my skills and interests. 
